@@ -1,0 +1,6 @@
+devel3.nna774.net:
+  properties:
+    attributes:
+      desired_hostname: devel3
+    run_list:
+      - hosts/devel3.rb

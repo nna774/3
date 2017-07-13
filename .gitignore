@@ -1,0 +1,5 @@
+secrets/keys/
+
+.vagrant/
+.bundle/
+vendor
